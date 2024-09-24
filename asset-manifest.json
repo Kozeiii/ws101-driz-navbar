@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-driz-navbar/static/css/main.307dd2fd.css",
+    "main.js": "/ws101-driz-navbar/static/js/main.eccb69fd.js",
+    "index.html": "/ws101-driz-navbar/index.html",
+    "main.307dd2fd.css.map": "/ws101-driz-navbar/static/css/main.307dd2fd.css.map",
+    "main.eccb69fd.js.map": "/ws101-driz-navbar/static/js/main.eccb69fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.307dd2fd.css",
+    "static/js/main.eccb69fd.js"
+  ]
+}
