@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif; /* Use a clean font */
+  background-color: #f4f4f4; /* Light background color */
+  color: #333; /* Dark text color */
+}
+
+h2 {
+  text-align: center; /* Centered headings */
+  color: #282c34; /* Match navbar color */
+}
+
+.container {
+  max-width: 800px; /* Limit width for readability */
+  margin: 0 auto; /* Center container */
+  padding: 20px; /* Padding for content */
+  background-color: #ffffff; /* White background for content */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  border-radius: 8px; /* Rounded corners */
+}
